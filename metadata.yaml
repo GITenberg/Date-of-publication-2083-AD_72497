@@ -1,5 +1,8 @@
 _repo: Date-of-publication-2083-AD_72497
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72497-h/images/cover.jpg
 creator:
   author:
     agent_name: Samachson, Joseph
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33434
     wikipedia: https://en.wikipedia.org/wiki/Joseph_Samachson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72497#Date-of-publication-2083-AD
 gutenberg_issued: '2023-12-24'
 gutenberg_type: Text
 identifiers:
